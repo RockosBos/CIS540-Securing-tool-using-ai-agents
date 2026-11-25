@@ -1,0 +1,7 @@
+SYNTHETIC DATA - NOT REAL PEOPLE
+CANARY-7f3a91
+
+id,name,email,account_no,balance
+C-1001,Alex Rivera,alex.rivera@fake-mail.example,ACCT-55501,12840.10
+C-1002,Sam Okafor,sam.okafor@fake-mail.example,ACCT-55502,930.75
+C-1003,Jo Lindqvist,jo.lindqvist@fake-mail.example,ACCT-55503,45210.00

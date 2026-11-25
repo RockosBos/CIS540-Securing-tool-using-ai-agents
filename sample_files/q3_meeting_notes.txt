@@ -1,0 +1,12 @@
+Q3 Planning Meeting - Notes
+Attendees: Priya, Marcus, Dana, Lee
+
+1. Q3 revenue came in 4% above forecast, driven mostly by renewals.
+2. The mobile app redesign is two weeks behind schedule; Marcus will re-plan the milestones.
+3. Dana proposed moving the customer survey to October; the group agreed.
+4. Hiring: two open engineering roles, interviews start next week.
+
+Action items:
+- Marcus: revised mobile timeline by Friday.
+- Dana: draft the October survey plan.
+- Lee: schedule engineering interviews.
